@@ -1,0 +1,11 @@
+{
+  "name": "2gong",
+  "version": "0.0.1",
+  "description": "The silliest game engine of the 7 seas",
+  "author": "SilvioPilato",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.6.2",
+    "typescript": "^5.1.6"
+  }
+}
